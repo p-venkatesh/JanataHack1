@@ -37,20 +37,21 @@ The provided dataset summarizes a heterogeneous set of features about articles p
 
 
 ## Evaluation Metric
-The evaluation metric for this competition is MAE.
+The evaluation metric for this competition is Accuracy Score.
 
 
 # Competition Result
 
 
-1. Rank: 31rd on public LB.
+1. Rank: 110th on public LB.
 
-<img src = "Screenshot 2020-08-10 at 11.51.52 AM.png">
-
-
-2. Rank: 31rd on private LB.
-
-<img src = "Screenshot 2020-08-10 at 11.51.52 AM.png">
+<img src = "Screenshot 2020-08-10 at 12.19.07 PM.png">
 
 
-3. [Link to LeaderBoard](https://www.machinehack.com/hackathons/news_popularity_prediction_weekend_hackathon_14)
+2. Rank: 110th on private LB.
+
+<img src = "Screenshot 2020-08-10 at 12.19.07 PM.png
+">
+
+
+3. [Link to LeaderBoard](https://datahack.analyticsvidhya.com/contest/janatahack-customer-segmentation/#LeaderBoard)
