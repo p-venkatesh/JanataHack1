@@ -55,5 +55,6 @@ The evaluation metric for this competition is Accuracy Score.
 
 <img src = "Screenshot 2020-08-10 at 12.19.07 PM.png">
 
+3.Top 1% percentile
 
-3. [Link to LeaderBoard](https://datahack.analyticsvidhya.com/contest/janatahack-customer-segmentation/#LeaderBoard)
+4. [Link to LeaderBoard](https://datahack.analyticsvidhya.com/contest/janatahack-customer-segmentation/#LeaderBoard)
