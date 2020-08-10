@@ -53,8 +53,7 @@ The evaluation metric for this competition is Accuracy Score.
 
 2. Rank: 110th on private LB.
 
-<img src = "Screenshot 2020-08-10 at 12.19.07 PM.png
-">
+<img src = "Screenshot 2020-08-10 at 12.19.07 PM.png">
 
 
 3. [Link to LeaderBoard](https://datahack.analyticsvidhya.com/contest/janatahack-customer-segmentation/#LeaderBoard)
