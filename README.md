@@ -1,7 +1,10 @@
 # Problem Statement
 
-The provided dataset summarizes a heterogeneous set of features about articles published by Mashable in a period of two years. These articles were published by Mashable (www.mashable.com) and their content as the rights to reproduce it belongs to them. Hence, this dataset does not share the original content but some statistics associated with it. The provided features were extracted as it is done with any NLP use case. The goal is to predict the news article's popularity as close as possible. The noise in the extracted features makes it difficult to just use the provided attributes and reach a good score. This dataset also provides huge scope to feature engineering
+An automobile company has plans to enter new markets with their existing products (P1, P2, P3, P4 and P5). After intensive market research, they’ve deduced that the behavior of new market is similar to their existing market. 
 
+In their existing market, the sales team has classified all customers into 4 segments (A, B, C, D ). Then, they performed segmented outreach and communication for different segment of customers. This strategy has work exceptionally well for them. They plan to use the same strategy on new markets and have identified 2627 new potential customers. 
+
+You are required to help the manager to predict the right group of the new customers.
 
 
 
